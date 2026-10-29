@@ -30,3 +30,8 @@ git clone https://github.com/JerryJerrington/omarchy-edgerunnersv3-hypr.git
 ```
 
 Then copy `hyprland.lua` and `colors.toml` to your theme's directory as needed.
+
+
+## Main Theme
+
+This pairs with [omarchy-edgerunnersv3-theme](https://github.com/JerryJerrington/omarchy-edgerunnersv3-theme). The main theme no longer ships `hyprland.lua` or terminal configs to comply with Omarchy's theme distribution rules.
